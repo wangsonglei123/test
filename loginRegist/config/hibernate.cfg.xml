@@ -12,6 +12,7 @@
     	 -->
     	<!-- Hibernate的基本配置 -->
     	<!-- 数据库的方言 -->
+    	
     	<property name="dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
     	<!-- 数据库的策略 -->
 <!--     	<property name="hbm2ddl.auto">update</property> -->
